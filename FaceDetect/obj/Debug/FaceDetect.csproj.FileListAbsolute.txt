@@ -52,3 +52,30 @@ D:\Users\ASUS\Documents\Visual Studio 2015\Projects\FaceDetect\FaceDetect\obj\De
 D:\Users\ASUS\Documents\Visual Studio 2015\Projects\FaceDetect\FaceDetect\obj\Debug\FaceDetect.Form3.resources
 D:\Users\ASUS\Documents\Visual Studio 2015\Projects\FaceDetect\FaceDetect\obj\Debug\FaceDetect.Properties.Resources.resources
 D:\Users\ASUS\Documents\Visual Studio 2015\Projects\FaceDetect\FaceDetect\obj\Debug\FaceDetect.csproj.GenerateResource.Cache
+D:\Users\ASUS\Documents\GitHub\FaceDetect\FaceDetect\bin\Debug\FaceDetect.exe.config
+D:\Users\ASUS\Documents\GitHub\FaceDetect\FaceDetect\obj\Debug\FaceDetect.exe
+D:\Users\ASUS\Documents\GitHub\FaceDetect\FaceDetect\obj\Debug\FaceDetect.pdb
+D:\Users\ASUS\Documents\GitHub\FaceDetect\FaceDetect\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\Users\ASUS\Documents\GitHub\FaceDetect\FaceDetect\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+D:\Users\ASUS\Documents\GitHub\FaceDetect\FaceDetect\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\Users\ASUS\Documents\GitHub\FaceDetect\FaceDetect\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+D:\Users\ASUS\Documents\GitHub\FaceDetect\FaceDetect\bin\Debug\FaceDetect.exe
+D:\Users\ASUS\Documents\GitHub\FaceDetect\FaceDetect\bin\Debug\FaceDetect.pdb
+D:\Users\ASUS\Documents\GitHub\FaceDetect\FaceDetect\bin\Debug\OpenCvSharp.Blob.dll
+D:\Users\ASUS\Documents\GitHub\FaceDetect\FaceDetect\bin\Debug\OpenCvSharp.dll
+D:\Users\ASUS\Documents\GitHub\FaceDetect\FaceDetect\bin\Debug\OpenCvSharp.Extensions.dll
+D:\Users\ASUS\Documents\GitHub\FaceDetect\FaceDetect\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\Users\ASUS\Documents\GitHub\FaceDetect\FaceDetect\bin\Debug\OpenCvSharp.pdb
+D:\Users\ASUS\Documents\GitHub\FaceDetect\FaceDetect\bin\Debug\OpenCvSharp.xml
+D:\Users\ASUS\Documents\GitHub\FaceDetect\FaceDetect\bin\Debug\OpenCvSharp.Blob.pdb
+D:\Users\ASUS\Documents\GitHub\FaceDetect\FaceDetect\bin\Debug\OpenCvSharp.Blob.xml
+D:\Users\ASUS\Documents\GitHub\FaceDetect\FaceDetect\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\Users\ASUS\Documents\GitHub\FaceDetect\FaceDetect\bin\Debug\OpenCvSharp.Extensions.xml
+D:\Users\ASUS\Documents\GitHub\FaceDetect\FaceDetect\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\Users\ASUS\Documents\GitHub\FaceDetect\FaceDetect\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\Users\ASUS\Documents\GitHub\FaceDetect\FaceDetect\obj\Debug\FaceDetect.csprojResolveAssemblyReference.cache
+D:\Users\ASUS\Documents\GitHub\FaceDetect\FaceDetect\obj\Debug\FaceDetect.Form1.resources
+D:\Users\ASUS\Documents\GitHub\FaceDetect\FaceDetect\obj\Debug\FaceDetect.Form2.resources
+D:\Users\ASUS\Documents\GitHub\FaceDetect\FaceDetect\obj\Debug\FaceDetect.Form3.resources
+D:\Users\ASUS\Documents\GitHub\FaceDetect\FaceDetect\obj\Debug\FaceDetect.Properties.Resources.resources
+D:\Users\ASUS\Documents\GitHub\FaceDetect\FaceDetect\obj\Debug\FaceDetect.csproj.GenerateResource.Cache

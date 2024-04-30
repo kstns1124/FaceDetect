@@ -30,10 +30,10 @@ namespace FaceDetect
         private Mat frame = new Mat();
         private bool facesDetectionEnabled = false;
         //private CascadeClassifier faceCasacdeClassifier = new CascadeClassifier(@"Data\haarcascade_frontalface_alt.xml");
-        private CascadeClassifier faceCasacdeClassifier = new CascadeClassifier(@"Data\haarcascade_frontalface_alt2.xml");
+        //private CascadeClassifier faceCasacdeClassifier = new CascadeClassifier(@"Data\haarcascade_frontalface_alt2.xml");
         //private CascadeClassifier faceCasacdeClassifier = new CascadeClassifier(@"Data\haarcascade_frontalface_defaults.xml");
         //private CascadeClassifier faceCasacdeClassifier = new CascadeClassifier(@"Data\lbpcascade_frontalface.xml");
-        //private CascadeClassifier faceCasacdeClassifier = new CascadeClassifier(@"Data\lbpcascade_frontalface_improved.xml");
+        private CascadeClassifier faceCasacdeClassifier = new CascadeClassifier(@"Data\lbpcascade_frontalface_improved.xml");
         //private Mat faceResult = null;
         private List<Mat> TrainedFaces = new List<Mat>();
         private List<int> PersonsLabes = new List<int>();
@@ -325,6 +325,20 @@ namespace FaceDetect
                 isTrained = false;
                 MessageBox.Show("Error in Train Images: " + ex.Message);
                 return;
+            }
+        }
+
+        private void form1ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form1 F1 = new Form1();
+            F1.ShowDialog();
+        }
+
+        private void form2ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            using (Form2 F2 = new Form2())
+            {
+                F2.ShowDialog();
             }
         }
     }
